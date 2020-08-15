@@ -1,5 +1,6 @@
-
-[
+{
+  username:"chenxi"
+  [
   {
     "endTime" : "2019-12-10 05:38",
     "artistName" : "BIGBANG",
@@ -43,3 +44,5 @@
     "msPlayed" : 219428
   }
   ]
+}
+
