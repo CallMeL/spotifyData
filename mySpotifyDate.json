@@ -1,0 +1,45 @@
+
+[
+  {
+    "endTime" : "2019-12-10 05:38",
+    "artistName" : "BIGBANG",
+    "trackName" : "BANG BANG BANG",
+    "msPlayed" : 79170
+  },
+  {
+    "endTime" : "2019-12-10 05:41",
+    "artistName" : "TAEYANG",
+    "trackName" : "눈,코,입 (Eyes, Nose, Lips)",
+    "msPlayed" : 229989
+  },
+  {
+    "endTime" : "2019-12-10 05:44",
+    "artistName" : "Lil Tecca",
+    "trackName" : "Ransom",
+    "msPlayed" : 26601
+  },
+  {
+    "endTime" : "2019-12-10 05:44",
+    "artistName" : "Lizzo",
+    "trackName" : "Better in Color",
+    "msPlayed" : 133058
+  },
+  {
+    "endTime" : "2019-12-10 05:47",
+    "artistName" : "Denise Ho",
+    "trackName" : "撐",
+    "msPlayed" : 87830
+  },
+  {
+    "endTime" : "2019-12-10 05:51",
+    "artistName" : "BIGBANG",
+    "trackName" : "IF YOU",
+    "msPlayed" : 230500
+  },
+  {
+    "endTime" : "2019-12-10 06:22",
+    "artistName" : "BIGBANG",
+    "trackName" : "LOSER",
+    "msPlayed" : 219428
+  }
+  ]
